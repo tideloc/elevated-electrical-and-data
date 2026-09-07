@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://elevatedelectricalanddata.com.au/sitemap.xml
